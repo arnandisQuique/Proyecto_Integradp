@@ -17,6 +17,7 @@ body {
     padding: 0;
     background-color: lightgrey;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)),url(../imagenes/fondosesion.jpg);
 }
 .formulario{
     position: absolute;
